@@ -1,0 +1,24 @@
+[
+  {
+    "name": "香港電台 第一台 (RTHK Radio 1)",
+    "urlString": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8",
+    "country": "中國香港",
+    "flag": "🇭🇰",
+    "language": "粵語",
+    "genre": "新聞/綜合",
+    "stability": 100,
+    "province": "香港",
+    "bitrate": "128 kbps"
+  },
+  {
+    "name": "BBC World Service",
+    "urlString": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "country": "英國",
+    "flag": "🇬🇧",
+    "language": "English",
+    "genre": "全球廣播新聞",
+    "stability": 95,
+    "province": null,
+    "bitrate": "128 kbps"
+  }
+]
