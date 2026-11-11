@@ -11,6 +11,72 @@
     "bitrate": "128 kbps"
   },
   {
+    "name": "香港電台 第二台 (RTHK Radio 2)",
+    "urlString": "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8",
+    "country": "中國香港",
+    "flag": "🇭🇰",
+    "language": "粵語",
+    "genre": "流行音樂/談話",
+    "stability": 100,
+    "province": "香港",
+    "bitrate": "128 kbps"
+  },
+  {
+    "name": "澳門電台 資訊台 (TDM Radio)",
+    "urlString": "https://stream.tdm.com.mo/live/ch1.smil/playlist.m3u8",
+    "country": "中國澳門",
+    "flag": "🇲🇴",
+    "language": "粵語",
+    "genre": "新聞/資訊",
+    "stability": 85,
+    "province": "澳門",
+    "bitrate": "96 kbps"
+  },
+  {
+    "name": "警察廣播電台 (PBS 總台)",
+    "urlString": "https://stream.zeno.fm/f3wvbb9g8xhvv",
+    "country": "中國台灣",
+    "flag": "🇹🇼",
+    "language": "中文",
+    "genre": "交通/即時路況",
+    "stability": 80,
+    "province": "台北",
+    "bitrate": "64 kbps"
+  },
+  {
+    "name": "CNR 中國之聲 (中央廣播)",
+    "urlString": "https://ls.qingting.fm/live/386/64k.m3u8",
+    "country": "中國",
+    "flag": "🇨🇳",
+    "language": "中文",
+    "genre": "國家新聞/時政",
+    "stability": 95,
+    "province": "北京",
+    "bitrate": "64 kbps"
+  },
+  {
+    "name": "廣東新聞廣播",
+    "urlString": "https://ls.qingting.fm/live/392/64k.m3u8",
+    "country": "中國",
+    "flag": "🇨🇳",
+    "language": "中文",
+    "genre": "華南新聞",
+    "stability": 88,
+    "province": "廣東",
+    "bitrate": "64 kbps"
+  },
+  {
+    "name": "NHK World Radio Japan",
+    "urlString": "https://nhkworld.cb.rc.videor.jp/japan/playlist.m3u8",
+    "country": "日本",
+    "flag": "🇯🇵",
+    "language": "日本語",
+    "genre": "綜合文化/新聞",
+    "stability": 90,
+    "province": null,
+    "bitrate": "128 kbps"
+  },
+  {
     "name": "BBC World Service",
     "urlString": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
     "country": "英國",
